@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{14d6b7fa-2661-4d0a-b8aa-5b263d3171c0}": {
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/DerAluDev/ytsync-releases/releases/download/v0.1.0/ytsync-0.1.0.xpi"
+        }
+      ]
+    }
+  }
+}
